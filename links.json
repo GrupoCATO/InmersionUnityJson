@@ -1,6 +1,6 @@
 {
   "backend": "https://admin.inmersioncolombia.com/",
-  "cdn": "https://detourporcundinamarca.gumlet.io/",
+  "cdn": "https://inmersioncolombia.gumlet.io/",
   "front": "https://www.inmersioncolombia.com/home",
   "media": "https://inmersion-colombia.s3.amazonaws.com/prod/media/",
   "visor_pdf": "https://storage.googleapis.com/detour_static/visor_pdf/index.html"
